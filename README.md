@@ -29,6 +29,18 @@ git clone https://github.com/avijit969/Drowsiness-Detection.git
 cd Drowsiness-Detection
 ```
 
+## Create a virtual environment
+
+```bash
+python -m venv venv
+```
+
+## Activate the virtual environment
+
+```bash
+.\venv\Scripts\activate
+```
+
 ## Installation
 
 ```bash
